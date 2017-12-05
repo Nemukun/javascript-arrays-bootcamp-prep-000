@@ -7,3 +7,4 @@ function addElementToBeginningOfArray(array,element){
 function destructivelyAddElementToBeginningOfArray(array,element){
   return moreArray=[element,...array];
 }
+
